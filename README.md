@@ -1,6 +1,6 @@
 # Content
 
-+ [prepare](#prepare)
++ [Prepare](#Prepare)
 + [Starting Mosquitto container](#Starting-Mosquitto-container)
 + [Create mosquttio user](#Create-mosquttio-user)
 + [MQTT Client using Shell script](#MQTT-Client-using-Shell-script)
